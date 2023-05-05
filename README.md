@@ -1,4 +1,11 @@
 # Mechanics-Of-Solid-Course-Project
+Group Members:
+Ankit Kumar,
+Mamta Kumari,
+Jason Daneil,
+Ruchit ,
+Manoj Solara
+
 The bending of beam project involves analyzing the failure of a beam under a given load condition, and determining the layer or section of the beam that will experience failure.
 Safety: Understanding the potential failure of a beam is critical for ensuring the safety of structures that rely on beams for support, such as buildings, bridges, and other infrastructure. By identifying the layer that will fail, engineers can design structures that can withstand expected loads and minimize the risk of catastrophic failure.
 
